@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi 👋, I'm <a href="https://bio.link/harshalpatil">Harshal Patil</a></h3>
 <h3 align="center"> Student of K.K.W.I.E.E.R | Artificial Intelligence and Data Science</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" width="250" src="https://media.discordapp.net/attachments/1086954353102946385/1089445857260224573/IMG_20230323_022142_393.jpg?width=671&height=671">
 
 
 
