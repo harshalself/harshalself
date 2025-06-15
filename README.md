@@ -59,15 +59,9 @@ I thrive in collaborative environments and enjoy being actively involved in club
 
 <h4>🧰 Tools</h4>
 <p align="left">
-  <!-- Canva logo from UXWing (PNG/SVG, free for commercial use) -->
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-social-media/canva-icon.svg" alt="canva" width="40" height="40"/>
-  
-  <!-- CapCut logo from Worldvectorlogo (SVG) -->
   <img src="https://worldvectorlogo.com/logos/capcut-3.svg" alt="capcut" width="40" height="40"/>
-  
-  <!-- Google Colab logo from Seeklogo (PNG, SVG) -->
-  <img src="https://seeklogo.com/images/G/google-colab-logo-6115858E21-seeklogo.com.png" alt="google colab" width="40" height="40"/>
-  
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/161374822?s=200&v=4" alt="cursor ai" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/156843308?s=200&v=4" alt="lovable dev" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="40" height="40"/>
@@ -76,6 +70,7 @@ I thrive in collaborative environments and enjoy being actively involved in club
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
 
 
 
