@@ -2,7 +2,6 @@
 
 <h1 align="center"> Hi 👋, I'm <a href="https://bio.link/harshalpatil">Harshal Patil</a></h1>
 <h3 align="center"> Student of K.K.W.I.E.E.R | Artificial Intelligence and Data Science</h3>
-<img align="right" alt="Coding" width="300" src="https://media.discordapp.net/attachments/1086954353102946385/1089445857260224573/IMG_20230323_022142_393.jpg?width=671&height=671">
 
 - 💬 A quick learner with strong ideation, adaptable in teams, good communicator, skilled in web development and Git/GitHub.
 
@@ -19,26 +18,12 @@ I am passionate about the transformative potential of AI and video editing.
 • **Technical:** Proficient in Python, C, and C++, with strong leadership in tech projects; skilled in Power BI, full-stack web development (HTML, CSS, JS, React.js, Node.js, Express.js), databases (PostgreSQL, MongoDB), and version control (Git, GitHub).  
 • **Non-Technical:** Skilled in cinematography and video editing, combining creative and analytical perspectives.
 
-🔸 **Career Aspirations**  
-I aspire to become an AI Engineer, leveraging my technical skills to innovate and solve complex problems. Alongside my professional goals, I aim to continue my passion for video editing as a part-time endeavor.
-
 🔸 **Achievements**  
 • Winner of SIH 2023 🏆  
 • Winner of SIH 2024 🏆  
 • Consolation Prize at Sunhacks 2024
 
-🔸 **Leadership and Involvement**  
-• Social Media Co-Head at TEDxKKWIEER  
-• Social Media Head at CSI KKWIEER  
-• Social Media Head at MIBCS  
-• Board of Director at Elite Club India  
-• Ex-Joint Secretary of Elite Club Nashik  
-• Core Committee Member of MIBCS  
-• NSS Volunteer
-
 I thrive in collaborative environments and enjoy being actively involved in clubs and committees, where I can contribute and grow. I am eager to expand my network and am open to exciting opportunities ahead. ✨
-
-Let’s connect and explore how we can collaborate and innovate together! 🤝🏻
 
 ---
 
