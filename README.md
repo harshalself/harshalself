@@ -60,9 +60,9 @@ I thrive in collaborative environments and enjoy being actively involved in club
 <h4>🧰 Tools</h4>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo.svg" alt="canva" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" alt="lightroom" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Snapseed_Logo.svg/2048px-Snapseed_Logo.svg.png" alt="snapseed" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/C/capcut-logo-4494FE0F01-seeklogo.com.png" alt="capcut" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/capcut_logo_icon_248386.png" alt="capcut" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="render" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/161374822?s=200&v=4" alt="cursor ai" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/156843308?s=200&v=4" alt="lovable dev" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="40" height="40"/>
@@ -70,9 +70,8 @@ I thrive in collaborative environments and enjoy being actively involved in club
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="colab" width="40" height="40"/>
 </p>
+
 
 ---
 
