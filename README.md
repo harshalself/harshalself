@@ -59,10 +59,15 @@ I thrive in collaborative environments and enjoy being actively involved in club
 
 <h4>🧰 Tools</h4>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo.svg" alt="canva" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/capcut_logo_icon_248386.png" alt="capcut" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="render" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/>
+  <!-- Canva logo from UXWing (PNG/SVG, free for commercial use) -->
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-social-media/canva-icon.svg" alt="canva" width="40" height="40"/>
+  
+  <!-- CapCut logo from Worldvectorlogo (SVG) -->
+  <img src="https://worldvectorlogo.com/logos/capcut-3.svg" alt="capcut" width="40" height="40"/>
+  
+  <!-- Google Colab logo from Seeklogo (PNG, SVG) -->
+  <img src="https://seeklogo.com/images/G/google-colab-logo-6115858E21-seeklogo.com.png" alt="google colab" width="40" height="40"/>
+  
   <img src="https://avatars.githubusercontent.com/u/161374822?s=200&v=4" alt="cursor ai" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/156843308?s=200&v=4" alt="lovable dev" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="40" height="40"/>
@@ -71,6 +76,7 @@ I thrive in collaborative environments and enjoy being actively involved in club
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
 
 
 ---
