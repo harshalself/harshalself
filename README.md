@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center"> Hi 👋, I'm <a href="https://bio.link/harshalpatil">Harshal Patil</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://harshal-patil-portfolio.vercel.app/">Harshal Patil</a></h1>
 <h3 align="center"> Student of K.K.W.I.E.E.R | Artificial Intelligence and Data Science</h3>
 
 - 💬 A quick learner with strong ideation, adaptable in teams, good communicator, skilled in web development and Git/GitHub.
