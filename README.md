@@ -23,8 +23,8 @@ I’ve built and shipped solutions using Python, FastAPI, React, Next.js, Node.j
 
 <h3 align="left">Experience</h3>
 
-- <strong>Software Engineer, Ensylon</strong> — Building AI-powered analytics and natural language-driven dashboard experiences using Python, FastAPI, AWS, and Docker
-- <strong>Software Research & Development Intern, Avhad Enterprises</strong> — Designed backend architecture, built REST APIs, and developed AI chatbot solutions using Vercel AI SDK, Groq, and Pinecone
+- <strong>Software Engineer, Ensylon</strong> — Built AI-powered analytics features using Python, FastAPI, AWS, and Docker; optimized agent/backend performance from <strong>70s to 11s</strong> while collaborating with product and business stakeholders
+- <strong>Software Research & Development Intern, Avhad Enterprises</strong> — Designed scalable Express.js backend systems, built REST APIs with testing, and developed RAG-based AI chatbot solutions with Vercel AI SDK, Groq, and Pinecone
 
 ---
 
@@ -86,8 +86,7 @@ I’ve built and shipped solutions using Python, FastAPI, React, Next.js, Node.j
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalself&show_icons=true&theme=tokyonight&layout=compact" alt="harshalself" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalself&show_icons=true&theme=tokyonight" alt="harshalself" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalself&theme=tokyonight" alt="harshalself" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalself&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshalself&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="500" />
+</div>
