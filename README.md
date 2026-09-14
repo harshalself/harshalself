@@ -87,6 +87,11 @@ I’ve built and shipped solutions using Python, FastAPI, React, Next.js, Node.j
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalself&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api?username=harshalself&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="500" />
+  <img src="https://img.shields.io/badge/Top%20Tech-Python%20%7C%20TypeScript%20%7C%20JavaScript-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Top Technologies" />
+  <img src="https://img.shields.io/badge/GitHub-Profile%20Ready-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile Ready" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack-0A0A0A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus Area" />
+  <img src="https://img.shields.io/badge/Portfolio-Open-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Open" />
 </div>
